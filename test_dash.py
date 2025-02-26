@@ -4,6 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import plotly.express as px
 
+st.set_page_config(layout='wide')
+
 # Дашборд
 st.title("📊 Дашборд")
 
