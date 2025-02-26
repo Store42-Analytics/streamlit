@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 
 # Дашборд
 st.title("📊 Дашборд")
-st.write(f"Добро пожаловать, {st.session_state['username']}!")
 
 # Генерация случайных данных
 days = np.arange(1, 11)
